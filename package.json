@@ -1,0 +1,14 @@
+{
+  "name": "desafio-servidor-web",
+  "version": "1.0.0",
+  "description": "Desafio de servidores web",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Pino",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

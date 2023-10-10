@@ -1,0 +1,173 @@
+[
+	{
+		"id": 1,
+		"title": "Manzana",
+		"description": "Manzana roja",
+		"price": 70,
+		"thumbnail": "./img/manzanaroja.png",
+		"code": "F1020",
+		"stock": 50
+	},
+	{
+		"id": 2,
+		"title": "Frutillas",
+		"description": "Frutilla",
+		"price": 70,
+		"thumbnail": "./img/frutilla.png",
+		"code": "F1021",
+		"stock": 50
+	},
+	{
+		"id": 3,
+		"title": "Banana",
+		"description": "Banana amarilla",
+		"price": 50,
+		"thumbnail": "./img/banana.png",
+		"code": "F1022",
+		"stock": 70
+	},
+	{
+		"id": 4,
+		"title": "Naranja",
+		"description": "Naranja dulce",
+		"price": 60,
+		"thumbnail": "./img/naranja.png",
+		"code": "F1023",
+		"stock": 60
+	},
+	{
+		"id": 5,
+		"title": "Uva",
+		"description": "Uva morada",
+		"price": 80,
+		"thumbnail": "./img/uva.png",
+		"code": "F1024",
+		"stock": 40
+	},
+	{
+		"id": 6,
+		"title": "Piña",
+		"description": "Piña tropical",
+		"price": 90,
+		"thumbnail": "./img/pina.png",
+		"code": "F1025",
+		"stock": 30
+	},
+	{
+		"id": 7,
+		"title": "Mango",
+		"description": "Mango delicioso",
+		"price": 95,
+		"thumbnail": "./img/mango.png",
+		"code": "F1026",
+		"stock": 35
+	},
+	{
+		"id": 8,
+		"title": "Pera",
+		"description": "Pera verde",
+		"price": 65,
+		"thumbnail": "./img/pera.png",
+		"code": "F1027",
+		"stock": 45
+	},
+	{
+		"id": 9,
+		"title": "Kiwi",
+		"description": "Kiwi verde",
+		"price": 85,
+		"thumbnail": "./img/kiwi.png",
+		"code": "F1028",
+		"stock": 40
+	},
+	{
+		"id": 10,
+		"title": "Cereza",
+		"description": "Cereza roja",
+		"price": 110,
+		"thumbnail": "./img/cereza.png",
+		"code": "F1029",
+		"stock": 35
+	},
+	{
+		"id": 11,
+		"title": "Mora",
+		"description": "Mora negra",
+		"price": 90,
+		"thumbnail": "./img/mora.png",
+		"code": "F1030",
+		"stock": 45
+	},
+	{
+		"id": 12,
+		"title": "Frambuesa",
+		"description": "Frambuesa roja",
+		"price": 115,
+		"thumbnail": "./img/frambuesa.png",
+		"code": "F1031",
+		"stock": 38
+	},
+	{
+		"id": 13,
+		"title": "Durazno",
+		"description": "Durazno jugoso",
+		"price": 75,
+		"thumbnail": "./img/durazno.png",
+		"code": "F1032",
+		"stock": 50
+	},
+	{
+		"id": 14,
+		"title": "Sandía",
+		"description": "Sandía refrescante",
+		"price": 130,
+		"thumbnail": "./img/sandia.png",
+		"code": "F1033",
+		"stock": 25
+	},
+	{
+		"id": 15,
+		"title": "Melón",
+		"description": "Melón dulce",
+		"price": 120,
+		"thumbnail": "./img/melon.png",
+		"code": "F1034",
+		"stock": 28
+	},
+	{
+		"id": 16,
+		"title": "Coco",
+		"description": "Coco tropical",
+		"price": 140,
+		"thumbnail": "./img/coco.png",
+		"code": "F1035",
+		"stock": 20
+	},
+	{
+		"id": 17,
+		"title": "Granada",
+		"description": "Granada roja",
+		"price": 100,
+		"thumbnail": "./img/granada.png",
+		"code": "F1036",
+		"stock": 30
+	},
+	{
+		"id": 18,
+		"title": "Papaya",
+		"description": "Papaya naranja",
+		"price": 95,
+		"thumbnail": "./img/papaya.png",
+		"code": "F1037",
+		"stock": 32
+	},
+	{
+		"id": 19,
+		"title": "Higo",
+		"description": "Higo morado",
+		"price": 105,
+		"thumbnail": "./img/higo.png",
+		"code": "F1038",
+		"stock": 33
+	}
+]
